@@ -1,4 +1,4 @@
-package com.study.rxjava.common;
+package com.study.rxjava.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

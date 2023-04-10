@@ -1,4 +1,4 @@
-package com.study.rxjava.common;
+package com.study.rxjava.utils;
 
 public class Logger {
     public static void log(String msg){

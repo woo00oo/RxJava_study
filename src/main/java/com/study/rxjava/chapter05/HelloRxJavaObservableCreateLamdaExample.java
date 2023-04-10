@@ -1,7 +1,7 @@
 package com.study.rxjava.chapter05;
 
-import com.study.rxjava.common.LogType;
-import com.study.rxjava.common.Logger;
+import com.study.rxjava.utils.LogType;
+import com.study.rxjava.utils.Logger;
 import io.reactivex.rxjava3.core.Observable;
 import io.reactivex.rxjava3.schedulers.Schedulers;
 

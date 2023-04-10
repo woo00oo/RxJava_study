@@ -1,8 +1,8 @@
 package com.study.rxjava.chapter05;
 
-import com.study.rxjava.common.LogType;
-import com.study.rxjava.common.Logger;
-import com.study.rxjava.common.TimeUtil;
+import com.study.rxjava.utils.LogType;
+import com.study.rxjava.utils.Logger;
+import com.study.rxjava.utils.TimeUtil;
 import io.reactivex.rxjava3.core.BackpressureOverflowStrategy;
 import io.reactivex.rxjava3.core.Flowable;
 import io.reactivex.rxjava3.schedulers.Schedulers;

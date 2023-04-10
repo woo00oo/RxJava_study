@@ -1,4 +1,4 @@
-package com.study.rxjava.common;
+package com.study.rxjava.utils;
 
 public enum LogType {
     ON_SUBSCRIBE("onSubscribe()"),

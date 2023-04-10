@@ -1,4 +1,4 @@
-package com.study.rxjava.common;
+package com.study.rxjava.utils;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

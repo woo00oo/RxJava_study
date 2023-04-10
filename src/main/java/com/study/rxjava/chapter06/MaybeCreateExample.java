@@ -1,8 +1,8 @@
 package com.study.rxjava.chapter06;
 
-import com.study.rxjava.common.DateUtil;
-import com.study.rxjava.common.LogType;
-import com.study.rxjava.common.Logger;
+import com.study.rxjava.utils.DateUtil;
+import com.study.rxjava.utils.LogType;
+import com.study.rxjava.utils.Logger;
 import io.reactivex.rxjava3.annotations.NonNull;
 import io.reactivex.rxjava3.core.Maybe;
 import io.reactivex.rxjava3.core.MaybeEmitter;
